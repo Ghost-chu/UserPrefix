@@ -1,0 +1,16 @@
+cc.carm.plugin.userprefix
+cc.carm.plugin.userprefix.command
+cc.carm.plugin.userprefix.configuration
+cc.carm.plugin.userprefix.configuration.file
+cc.carm.plugin.userprefix.configuration.message
+cc.carm.plugin.userprefix.configuration.values
+cc.carm.plugin.userprefix.event
+cc.carm.plugin.userprefix.hooker
+cc.carm.plugin.userprefix.listener
+cc.carm.plugin.userprefix.listener.processor
+cc.carm.plugin.userprefix.manager
+cc.carm.plugin.userprefix.model
+cc.carm.plugin.userprefix.nametag
+cc.carm.plugin.userprefix.ui
+cc.carm.plugin.userprefix.util
+cc.carm.plugin.userprefix.util.gui
